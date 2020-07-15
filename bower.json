@@ -1,0 +1,35 @@
+{
+  "name": "ng-intl-tel-input",
+  "description": "intl-tel-input integration for Angular.js",
+  "version": "1.4.0",
+  "main": "dist/scripts/ng-intl-tel-input.js",
+  "ignore": [
+    "src",
+    "test",
+    ".*",
+    "gulpfile.js",
+    "karma.conf.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "angular": "^1.2.29",
+    "intl-tel-input": "9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/simonnilsson/ng-intl-tel-input.git"
+  },
+  "keywords": [
+    "angular",
+    "angular.js",
+    "intl-tel-input",
+    "phone-number",
+    "telephone-number",
+    "input",
+    "forms",
+    "form",
+    "ng-model",
+    "ngModel",
+    "form-control"
+  ]
+}
